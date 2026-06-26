@@ -1,0 +1,19 @@
+# Robot configuration example
+robot:
+  platform: Unitree G1
+  arms: dual_arm
+  hand: three_finger_dexterous_hand
+  task: electric_drill_grasping
+
+teleoperation:
+  operator_device: Apple Vision Pro
+  head_pose: true
+  wrist_pose: true
+  hand_keypoints: 21
+
+recording:
+  include_visual_observations: true
+  include_robot_states: true
+  include_end_effector_poses: true
+  include_hand_states: true
+  include_operator_commands: true

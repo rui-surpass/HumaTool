@@ -1,0 +1,13 @@
+{
+  "observation": {
+    "left_image": "path/to/left.png",
+    "right_image": "path/to/right.png"
+  },
+  "robot_state": {
+    "joint_positions": [],
+    "joint_velocities": [],
+    "end_effector_pose": []
+  },
+  "instruction": "Pick up the industrial object.",
+  "expert_action_chunk": []
+}
