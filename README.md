@@ -47,7 +47,7 @@ The project is organized as a continuous pipeline:
 4. **Simulation and Evaluation**
    Evaluate the trained policy in Isaac Sim through success rate comparison, failure-stage analysis, and qualitative case studies.
 
-```
+
 
 ## Key Results
 
