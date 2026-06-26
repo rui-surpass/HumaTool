@@ -1,0 +1,10 @@
+{
+  "current": {
+    "auto_reconnect": false,
+    "ip": "172.20.10.3"
+  },
+  "previous": {
+    "auto_reconnect": false,
+    "ip": "172.20.10.3"
+  }
+}
